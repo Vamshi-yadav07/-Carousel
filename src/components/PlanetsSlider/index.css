@@ -1,0 +1,10 @@
+.slick-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png ');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: cover;
+  padding: 20px 100px;
+  height: 100vh;
+  text-align: center;
+}
